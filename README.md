@@ -5,4 +5,5 @@
 ## 1-install git repo
 ## 2-cd front-end
 ## 3-cd types-exam
-## 4-npm start it will start both frontEnd and backEnd
+## 4- run (npm start)
+### it will start both frontEnd and backEnd
